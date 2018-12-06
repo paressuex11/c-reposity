@@ -2,6 +2,7 @@
 #include <time.h>
 #include <stdlib.h> 
 #include <conio.h>
+#include<mylib.cpp>
 
 #define SNAKE_MAX_LENGTH 20 
 #define SNAKE_HEAD 'H'
